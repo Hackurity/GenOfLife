@@ -10,5 +10,5 @@
                               --A cell arises if there are three living cells nearby 
                               --A cell dies if it has less than 2 neighbors or more than 3 neighbors.
 
+<img align="center" src="https://Hackurity/GenOfLife/blob/main/work_example/example.png" />
 
-![Work example](https://Hackurity/GenOfLife/blob/main/work_example/example.png)
